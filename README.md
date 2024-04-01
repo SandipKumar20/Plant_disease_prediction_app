@@ -1,0 +1,1 @@
+# An app which predicts the disease of a plant, given an image of a leaf of the plant.
